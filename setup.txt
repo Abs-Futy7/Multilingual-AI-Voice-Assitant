@@ -1,0 +1,5 @@
+1. Create new env
+2. write template.py
+3. python template.py
+4. write setup.py
+5. pip install -r ./requirements.txt
